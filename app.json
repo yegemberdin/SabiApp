@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name": "sábı",
+    "icon": "./assets/baby.png",
+    "version": "1.0.0",
+    "slug": "sabi",
+    "ios": {
+      "bundleIdentifier": "com.ynt.sabi"
+    },
+    "android": {
+      "package": "com.ynt.sabi"
+    }
+   }
+ }
